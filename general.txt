@@ -11,5 +11,7 @@ reddit.com
 time.com
 tumblr.com
 twitter.com
+twitch.tv
+vimeo.com
 vudu.com
 ytn.co.kr
