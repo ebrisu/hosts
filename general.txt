@@ -1,7 +1,6 @@
 cnn.com
 dailymotion.com
 dropmix.com
-gaybookstar.com
 huffpost.com
 hulu.com
 instagram.com
@@ -11,6 +10,7 @@ peacocktv.com
 pinterest.com
 playtube.pk
 reddit.com
+tiktok.com
 time.com
 tumblr.com
 twitter.com
